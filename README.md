@@ -1,6 +1,3 @@
-# sql-case-study-dannys-diner
-SQL Case Study – Danny's Diner Solutions &amp; Analysis
-
 # 🍜 Danny's Diner SQL Case Study
 
 This repository contains my solutions to the **Danny's Diner SQL Case Study** from the **8 Week SQL Challenge**. The case study focuses on solving real-world business problems using SQL to derive meaningful insights from customer purchase data.
@@ -29,21 +26,21 @@ This repository contains my solutions to the **Danny's Diner SQL Case Study** fr
 
 ```text
 .
-├── schema.sql
-├── solutions.sql
 ├── README.md
+├── schema.sql
+└── solutions.sql
 ```
 
 ## 💡 Key Learnings
 
-Through this case study, I improved my understanding of:
+Through this case study, I strengthened my understanding of:
 
-* Selecting the correct level of aggregation
-* Choosing the appropriate JOIN type
+* Choosing the correct level of aggregation
+* Selecting the appropriate JOIN type
 * Implementing business rules using SQL
-* Applying window functions correctly
-* Working with date-based analysis
-* Debugging SQL queries and handling duplicate records
+* Applying window functions effectively
+* Performing date-based analysis
+* Debugging SQL queries and resolving duplicate records
 
 ## 📖 Dataset
 
@@ -53,8 +50,8 @@ The dataset consists of three tables:
 * `menu`
 * `members`
 
-These tables are used to answer a series of business-focused SQL questions.
+These tables are used to answer a series of business-focused analytical questions.
 
 ## 🚀 About
 
-This project is part of my Data Analytics learning journey and demonstrates practical SQL skills through solving real-world business case studies.
+This project is part of my Data Analytics learning journey and demonstrates practical SQL skills by solving real-world business case studies.
